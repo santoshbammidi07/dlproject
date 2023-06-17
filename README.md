@@ -1,1 +1,1 @@
-This is for OCR
+This repo is for OCR Project
